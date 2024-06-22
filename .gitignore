@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+node_modules/
+package-lock.json
+=======
+node_modules/
+package-lock.json
+>>>>>>> e813d22dfc968b68f5ad56157a62da637c2e4e60
+.env
